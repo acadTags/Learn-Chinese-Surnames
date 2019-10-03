@@ -161,9 +161,13 @@ public class WikiPage extends Activity {
         String workInfo = "";
         if (workInfoArr != null) {
             for (String ele : workInfoArr) {
-                Log.d(TAG, "generateWorkInfoDetailsHTML: " + ele);
-                if (workInfo.equals("")) {
-                    workInfo = ele;
+                        Log.d(TAG, "generateWorkInfoDetailsHTML: " + ele + "/n" +"workInfo: " + workInfo);
+                        if (workInfo.equals("")) {
+                            if (ele.equals("")){
+                                workInfo = "题目信息不全 | Title not available";
+                            }else {
+                                workInfo = ele;
+                            }
                 } else {
                     //Log.d(TAG, "generateWorkInfoDetailsHTML: " + ele.substring(0,3));
                     if (ele.length()>=3) {
@@ -224,9 +228,13 @@ public class WikiPage extends Activity {
         String workInfo = "";
         if (workInfoArr != null) {
             for (String ele : workInfoArr) {
-                Log.d(TAG, "generateWorkInfoDetailsHTML: " + ele);
+                Log.d(TAG, "generateWorkInfoDetailsHTML: " + ele + "/n" +"workInfo: " + workInfo);
                 if (workInfo.equals("")) {
-                    workInfo = ele;
+                    if (ele.equals("")){
+                        workInfo = "题目信息不全 | Title not available";
+                    }else {
+                        workInfo = ele;
+                    }
                 } else {
                     //Log.d(TAG, "generateWorkInfoDetailsHTML: " + ele.substring(0,3));
                     if (android.text.TextUtils.isDigitsOnly(ele.substring(0, 3))) {
