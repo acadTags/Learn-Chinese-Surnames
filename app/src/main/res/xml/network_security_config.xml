@@ -3,5 +3,6 @@
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">data.library.sh.cn</domain>
         <domain includeSubdomains="true">api.geonames.org</domain>
+        <domain includeSubdomains="true">www.chinesetools.eu</domain>
     </domain-config>
 </network-security-config>
