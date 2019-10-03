@@ -15,4 +15,5 @@ Apk files of different versions are available at [```apk for Android 4-5```](htt
 
 # Acknowledgement
 * Great thanks to Ilesanmi Olade and Kunquan Zhong for their contribution to this application.
-* Part of the copyright of this application is belong to Shanghai Library.
+* Thanks for Shanghai Library for organising this competition. Half of the copyright of this application is belong to Shanghai Library.
+* Thanks to other sources used in the application, to collegues, are in the ```about''' page in the application.
