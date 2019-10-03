@@ -11,7 +11,7 @@ The application is now suitable for Android 9 and later versions. There are stil
 1. fail to load the image characters.
 2. fail to display pinyins of the places of the family books.
 
-Apk files of different versions are available at [```apk for Android 4-5```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk) and [```apk for Android 9+```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk).
+Apk files of different versions are available at [```apk for Android 4-5```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk) and [```apk for Android 9+```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%209%2B%20(beta).apk).
 
 # Acknowledgement
 * Great thanks to Ilesanmi Olade and Kunquan Zhong for their contribution to this application.
