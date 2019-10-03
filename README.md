@@ -5,7 +5,7 @@ The implementation that fully supports Android 4.0-5.x is in the file [```Learn 
 
 The application is now compatible to Android 9 and later versions. For Chinese calligraphy images, the previous API source for chinese characters were deprecated, in this version, we use the API from [```chinese.gratis``` or ```www.chinesetools.eu```](https://chinese.gratis/).
 
-APK files of different versions are available at [```apk for Android 4-5```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk) and [```apk for Android 9+```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%209%2B%20(beta).apk).
+APK files of different versions are available at [```apk for Android 4-5```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk) and [```apk for Android 9+```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%209%2B.apk).
 
 Detail of the App demo and its design had been documented in the papers below:
 * Enrichment of Cross-Lingual Information on Chinese Genealogical Linked Data, in iConference 2017 Proceedings. [```[pdf]```](https://www.ideals.illinois.edu/bitstream/handle/2142/98870/2pt3_Dong-Enrichment.pdf?sequence=1&isAllowed=y) [```[slides]```](https://cgi.csc.liv.ac.uk/~hang/ppt/presentation_iconf_Enrichment%20of%20Cross-Lingual%20Information%20on%20Chinese%20Genealogical%20Linked%201.pdf)
