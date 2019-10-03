@@ -37,8 +37,9 @@ public class AboutPage extends Activity{
                 "\t\n" +
                 "For my mother.\n" +
                 "\n" +
-                "Last Edit: May 15 2016.\n" +
-                "Contact: hang.dong at xjtlu.edu.cn");
+                "First Version: May 15 2016.\n" +
+                "Last Edit: Oct 03 2019.\n" +
+                "Contact: hang.dong@xjtlu.edu.cn");
     }
 
     @Override
