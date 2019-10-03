@@ -131,11 +131,12 @@ public class WikiPage extends Activity {
 //        String gifUrl = s.getGifUrl();
 //        Log.d(TAG, "ending getting gifUrl");
         Log.d(TAG, "start getting gifUrl");
-        String gifUrl;
+        String gifUrl;;
         //if (CharacterClasses.hasGifUrl(HanzhiChar)){
         //    gifUrl = CharacterClasses.getGifURL(CharacterClasses.simp2trad(HanzhiChar+"").charAt(0));
         //}else{
-            gifUrl = CharacterClasses.getImageArtURL(HanzhiChar + "", "096", "200");
+            //gifUrl = CharacterClasses.getImageArtURL(HanzhiChar + "", "096", "200");
+            gifUrl = CharacterClasses.getImageStandardURL(HanzhiChar+"", "200", "8");
         //}
         Log.d(TAG, "ending getting gifUrl");
 
@@ -206,8 +207,8 @@ public class WikiPage extends Activity {
     public void generateWorkInfoDetailsHTML(String Hanzhi){
         Toast.makeText(getApplicationContext(), "loading early family book records", Toast.LENGTH_SHORT).show();
         //String gifUrl = CharacterClasses.getGifURL(simp2trad(HanzhiChar+"").charAt(0));
-        //String gifUrl = CharacterClasses.getImageStandardURL(HanzhiChar + "", "200", "2");
-        String gifUrl = CharacterClasses.getImageArtURL(Hanzhi, "096", "200"); // this will show traditional chinese as well.
+        String gifUrl = CharacterClasses.getImageStandardURL(Hanzhi, "200", "8");
+        //String gifUrl = CharacterClasses.getImageArtURL(Hanzhi, "096", "200"); // this will show traditional chinese as well.
 
         Surname s = new Surname();
         s.setCharacter(Hanzhi + "");
