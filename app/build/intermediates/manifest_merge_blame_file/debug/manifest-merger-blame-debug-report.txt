@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.chinesesurnames"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="21"
+8-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="28" />
+9-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:9:5-67
+11-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:9:22-64
+12
+13    <application
+13-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:11:5-47:19
+14        android:allowBackup="true"
+14-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:13:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] C:\Users\cleme\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:14:9-45
+18        android:label="@string/app_name"
+18-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:15:9-41
+19        android:networkSecurityConfig="@xml/network_security_config"
+19-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:12:9-69
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:16:9-40
+22        <activity
+22-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:17:9-26:20
+23            android:name="com.example.chinesesurnames.MainActivity"
+23-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:18:13-68
+24            android:label="@string/app_name"
+24-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:19:13-45
+25            android:screenOrientation="portrait" >
+25-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:20:13-49
+26            <intent-filter>
+26-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:21:13-25:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:22:17-69
+27-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:22:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:24:17-77
+29-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:24:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:27:9-31:20
+33            android:name="com.example.chinesesurnames.SurnameList"
+33-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:28:13-67
+34            android:label="@string/title_activity_surname_list"
+34-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:29:13-64
+35            android:screenOrientation="portrait" >
+35-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:30:13-49
+36        </activity>
+37        <activity
+37-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:32:9-36:20
+38            android:name="com.example.chinesesurnames.WikiPage"
+38-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:33:13-64
+39            android:label="@string/title_activity_wiki_page"
+39-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:35:13-61
+40            android:screenOrientation="portrait" >
+40-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:34:13-49
+41        </activity>
+42        <activity
+42-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:37:9-41:20
+43            android:name="com.example.chinesesurnames.WorkInfoPage"
+43-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:38:13-68
+44            android:label="@string/title_activity_workinfo_page"
+44-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:40:13-65
+45            android:screenOrientation="portrait" >
+45-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:39:13-49
+46        </activity>
+47        <activity
+47-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:42:9-46:20
+48            android:name="com.example.chinesesurnames.AboutPage"
+48-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:43:13-65
+49            android:label="@string/title_activity_about_page"
+49-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:45:13-62
+50            android:screenOrientation="portrait" >
+50-->D:\OneDrive\competition open data shl\Learn Chinese Surnames\app\src\main\AndroidManifest.xml:44:13-49
+51        </activity>
+52    </application>
+53
+54</manifest>

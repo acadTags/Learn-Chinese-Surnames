@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chinesesurnames"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.chinesesurnames.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.chinesesurnames.SurnameList"
+            android:label="@string/title_activity_surname_list"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.chinesesurnames.WikiPage"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_wiki_page" >
+        </activity>
+        <activity
+            android:name="com.example.chinesesurnames.WorkInfoPage"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_workinfo_page" >
+        </activity>
+        <activity
+            android:name="com.example.chinesesurnames.AboutPage"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_about_page" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_homepage_old.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-hdpi\\homepage_old.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wiki_page.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\layout\\activity_wiki_page.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_old.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_old.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\menu_workinfo_page.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\menu\\workinfo_page.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_old.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_old.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\menu_wiki_page.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\menu\\wiki_page.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\menu_surname_list.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\menu\\surname_list.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_surname_list.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\layout\\activity_surname_list.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_capture.PNG.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-hdpi\\capture.PNG"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\raw_surnameurllist.txt.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\raw\\surnameurllist.txt"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\raw_surnameurllist_new.txt.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\raw\\surnameurllist_new.txt"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_homepage.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-hdpi\\homepage.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\menu_about_page.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\menu\\about_page.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_old.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_old.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\raw_workinfoview.htm.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\raw\\workinfoview.htm"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_page.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\layout\\activity_about_page.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_old.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_old.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_workinfo_page.xml.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\layout\\activity_workinfo_page.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\cleme\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\build\\intermediates\\res\\merged\\debug\\raw_familyview.htm.flat",
+        "source": "D:\\OneDrive\\competition open data shl\\Learn Chinese Surnames\\app\\src\\main\\res\\raw\\familyview.htm"
+    }
+]

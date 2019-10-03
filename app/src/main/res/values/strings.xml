@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Learn Chinese Surnames</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_surname_list">SurnameList</string>
+    <string name="title_activity_wiki_page">WikiPage</string>
+    <string name="title_activity_workinfo_page">WorkInfoPage</string>
+    <string name="title_activity_about_page">About Page</string>
+</resources>
