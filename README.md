@@ -14,4 +14,4 @@ Detail of the App demo and its design had been documented in the papers below:
 # Acknowledgement
 * Great thanks to Ilesanmi Olade and Kunquan Zhong for their contribution to this application.
 * Many thanks to Shanghai Library for organising this competition. Half of the copyright of this application is belong to Shanghai Library.
-* Thanks to other sources used in the application (DBpedia, Wikipedia, GeoNames, Wiktionary, etc.); thanks to the collegues and friends. The acknowledgement is in [```the about page```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/app%20screenshots/Screenshot_2016-05-15-10-16-20.png) in the application.
+* Thanks to other sources used in the application (DBpedia, Wikipedia, GeoNames, Wiktionary, etc.); thanks to the collegues and friends. The acknowledgement is in [```the about page```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/app%20screenshots/Screenshot_acknowledgement.jpg) in the application.
