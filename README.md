@@ -3,7 +3,7 @@ Code for the Android App demo, Learn Chinese Surnames. This App demo and its des
 
 The implementation that fully supports Android 4.0-5.x is in the file [```Learn Chinese Surnames - Android 4-5.zip```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.zip). [```Screenshots```](https://github.com/acadTags/Learn-Chinese-Surnames/tree/master/app%20screenshots) are available for this version.
 
-The application is now suitable for Android 9 and later versions. For chinese calligraphy images, the previous API source for chinese characters were deprecated, in this version, we use the API from [```chinese.gratis``` or ```www.chinesetools.eu```](https://chinese.gratis/).
+The application is now compatible to Android 9 and later versions. For Chinese calligraphy images, the previous API source for chinese characters were deprecated, in this version, we use the API from [```chinese.gratis``` or ```www.chinesetools.eu```](https://chinese.gratis/).
 
 APK files of different versions are available at [```apk for Android 4-5```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk) and [```apk for Android 9+```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%209%2B%20(beta).apk).
 
