@@ -1,5 +1,5 @@
 # Learn-Chinese-Surnames 
-Code for the Android App demo, Learn Chinese Surnames (学习中国姓氏). This App demo and its design won the first prize of Shanghai Library Open Data Application Development Contest in 2016, see [```website```](http://pcrc.library.sh.cn/zt/opendata/2016/) in Chinese. Authors of this App demo include Hang Dong, Ilesanmi Olade, and Kunquan Zhong.
+Code for the Android App demo, Learn Chinese Surnames (学习中国姓氏). This App demo and its design won the first prize of Shanghai Library Open Data Application Development Contest in 2016, see [```website```](https://opendata.library.sh.cn/2016/) in Chinese. Authors of this App demo include Hang Dong, Ilesanmi Olade, and Kunquan Zhong.
 
 The implementation that fully supports Android 4.0-5.x is in the file [```Learn Chinese Surnames - Android 4-5.zip```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.zip). [```Screenshots```](https://github.com/acadTags/Learn-Chinese-Surnames/tree/master/app%20screenshots) are available for this version.
 
