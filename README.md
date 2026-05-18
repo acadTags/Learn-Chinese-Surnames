@@ -8,7 +8,7 @@ The application is now compatible to Android 9 and later versions. For Chinese c
 APK files of different versions are available at [```apk for Android 4-5```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%204-5.apk) and [```apk for Android 9+```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/Learn%20Chinese%20Surnames%20-%20Android%209%2B.apk).
 
 Detail of the App demo and its design had been documented in the papers below:
-* Enrichment of Cross-Lingual Information on Chinese Genealogical Linked Data, in iConference 2017 Proceedings. [```[pdf]```](https://www.ideals.illinois.edu/items/104392) [```[slides]```](https://cgi.csc.liv.ac.uk/~hang/ppt/presentation_iconf_Enrichment%20of%20Cross-Lingual%20Information%20on%20Chinese%20Genealogical%20Linked%201.pdf)
+* Enrichment of Cross-Lingual Information on Chinese Genealogical Linked Data, in iConference 2017 Proceedings. [```[pdf]```](https://www.ideals.illinois.edu/items/104392) [```[slides]```](https://github.com/acadTags/Learn-Chinese-Surnames/blob/master/presentation_iconf_Enrichment%20of%20Cross-Lingual%20Information%20on%20Chinese%20Genealogical%20Linked%201.pdf)
 * Matching Linked Data for Cross-Lingual Genealogical Services——Learn Chinese Surnames in Shanghai Library Open Data Application Contest (面向跨语言家谱服务的多源关联数据匹配研究——上海图书馆开放数据应用比赛作品 Learn Chinese Surnames). Journal of Academic Libraries [in Chinese] (大学图书馆学报), 2018.4. [```[pdf]```](https://ccj.pku.edu.cn/article/info?id=220051190)
 
 # Acknowledgement
